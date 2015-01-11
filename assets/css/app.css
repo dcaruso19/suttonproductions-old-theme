@@ -1,0 +1,121 @@
+#headerwrap h1 {
+margin-top: 130px;
+color: #FFF;
+font-size: 80px;
+font-weight: 700;
+letter-spacing: 3px;
+}
+
+#headerwrap h2 {
+color: #FFF;
+font-size: 38px;
+font-weight: 100;
+letter-spacing: 2px;
+margin-top: 6rem;
+}
+
+.foot.row {background: #E4E4E4;
+}
+
+.simplenav {
+	font-weight: bold;
+}
+
+.col-lg-3 h3 {
+font-size: 32px;
+font-weight: 500;
+}
+
+.col-lg-3 p {
+line-height: 28px;
+margin-bottom: 25px;
+font-size: 20px;
+}
+
+#services {
+	background: #2584A1;
+}
+
+#sf .dg {
+	background: #2584A1;
+}
+
+#sf .lg {
+background: #0B4354;
+}
+
+a:hover, a:focus {
+color: #428BCA;
+text-decoration: none;
+outline: 0;
+}
+
+a {
+color: #195A6E;
+word-wrap: break-word;
+-webkit-transition: color .1s ease-in, background .1s ease-in;
+-moz-transition: color .1s ease-in, background .1s ease-in;
+-ms-transition: color .1s ease-in, background .1s ease-in;
+-o-transition: color .1s ease-in, background .1s ease-in;
+transition: color .1s ease-in, background .1s ease-in;
+}
+
+.btn-green {
+color: #FFF;
+background-color: #0B4354;
+border-color: #000;
+font-weight: 300;
+}
+
+.btn-green:hover, .btn-green:focus, .btn-green:active, .btn-green.active, .open .dropdown-toggle.btn-green {
+color: #FFF;
+background-color: #195A6E;
+border-color: #000;
+font-weight: 300;
+}
+
+.email-footer{
+
+color: #9FDDF0
+}
+
+.menu h1.logo a:hover {
+color: #9FDDF0;
+}
+
+#sf p.text-right{
+	color:#000
+}
+
+@media (max-width: 767px) {
+
+#headerwrap h1 {
+margin-top: 130px;
+color: #FFF;
+font-size: 40px;
+font-weight: 700;
+letter-spacing: 3px;
+}
+
+#headerwrap h2 {
+color: #FFF;
+font-size: 28px;
+font-weight: 100;
+letter-spacing: 2px;
+margin-top: 6rem;
+}
+
+h1, .h1 {
+font-size: 26px;
+}
+
+.col-lg-3 h3 {
+font-size: 28px;
+font-weight: 500;
+}
+
+
+
+
+
+	}
